@@ -1,8 +1,23 @@
- img{
- 	width: 2%; 
- }
+div{
+	width: 70%;
+}
+
+div img{
+	width: 5%;
+	float: left;
+}
+
+.star_size{
+	width: 55%;
+	height: 5%;
+}
+
+ /*img:hover{
+ 	width: 21%;
+ }*/
 
  h3{
  	width: 20%;
  	display: inline-block;
  }
+
